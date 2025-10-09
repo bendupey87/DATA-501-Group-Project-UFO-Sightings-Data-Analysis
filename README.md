@@ -1,3 +1,5 @@
+![cat](https://github.com/user-attachments/assets/2b796cbd-249b-45bb-b5f6-6f66c20a826a)
+
 # 👽 DATA-501 Group Project: UFO Sightings & Data Analysis  
 
 Welcome to our cosmic group project! 🚀 This repository is where Team UFO (Ben, Isabella, Carly) will track, code, and share everything for our **DATA-501: Intro to Python for Data Analysis** group project.  
