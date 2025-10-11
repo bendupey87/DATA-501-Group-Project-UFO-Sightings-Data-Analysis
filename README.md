@@ -50,6 +50,7 @@ We’ll mix in extra context data like weather, census info, and geography to se
   - MUFON: [Mutual UFO Network](https://www.mufon.com/)  
   - [The Black Vault](https://www.theblackvault.com/documentarchive/) (UAP docs)  
   - [NASA UAP Independent Study](https://www.nasa.gov/feature/nasa-s-uap-independent-study-report/)  
+  - [UFO Sightings from NUFORC](https://huggingface.co/datasets/kcimc/NUFORC?utm_source=chatgpt.com)
 
 - **Context data:**  
   - [US Census Bureau](https://data.census.gov/) – demographics  
