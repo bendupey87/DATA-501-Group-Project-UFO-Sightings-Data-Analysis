@@ -20,21 +20,6 @@ Identify outlier states/regions
 U.S. Census population by state (1900–2020) 
 Easily downloadable from census.gov (“Intercensal Estimates” or “State Population Totals”). 
 
-Other dataset ideas: 
-
-Technology Adoption / Internet Access 
-
-Goal: test whether increased reports follow increased reporting capacity. 
-She can explore: 
-
-Internet access over time 
-
-Broadband penetration 
-
-Home computer adoption 
-
- 
-
 ## Suggested dataset: 
 NTIA Internet Use / Broadband Adoption Data (1998–present) 
 (“Digital Nation Data Explorer” → downloadable CSVs) 
@@ -44,10 +29,13 @@ This provides:
 
 Device ownership 
 
-Broadband availability 
-to match our proposal’s emphasis on communication technology adoption. 
+Things to look for:
 
- 
+Broadband availability to match our proposal’s emphasis on communication technology adoption. 
+
+Internet access over time 
+
+Home computer adoption 
 
 # By Next meeting: 
 
